@@ -4,11 +4,16 @@ var cors = require('cors')
 const port = 5000
 app.use(cors());
 
-
 const courses = require('./courses.json')
 app.get('/courses', (req, res) => {
     res.send(courses);
 })
+app.get('/courses/:id', (req, res) => {
+    const dynamicId = req.params.id;
+    const selectedCourse = courses.find(item => item._id === dynamicId);
+    res.send(selectedCourse);
+})
+
 
 
 app.get('/', (req, res) => {
