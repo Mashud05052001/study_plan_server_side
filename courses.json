@@ -1,0 +1,102 @@
+[
+    {
+        "index": "0",
+        "_id": "6354dbccpb7fedf95e6c982e",
+        "name": "Frontend Developing",
+        "tools": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Bootstrap",
+            "TailWind",
+            "TailWind Components (Daisy UI, Kutty etc)",
+            "ReactJS",
+            "React Router",
+            "React Components",
+            "Authentication"
+        ],
+        "detailes": "Frontend development refers to that area of web development that focuses on what the users see on their end. It involves transforming the code built by backend developers into a graphical interface, making sure that the data is presented in an easy-to-read and -understand format. Without frontend development, all you would see on a website or web application are undecipherable codes (unless you’re a developer, too, of course). But because of frontend developers, people with no coding background can easily understand and use web applications and websites. Everything you see when you visit Google Apps, Canva, Facebook, and other web applications are products of backend and frontend developers work together.",
+        "image": "https://www.mindinventory.com/blog/wp-content/uploads/2021/03/frontend-development-tools.png"
+    },
+    {
+        "_id": "6356dbccab7fedf95e6c182e",
+        "id": "1",
+        "name": "Backend Developing",
+        "tools": [
+            "NodeJS",
+            "django",
+            "Python",
+            "Laravel",
+            "Express.js"
+        ],
+        "detailes": "Back-end development references a client server architecture common in ecommerce. Client side tends to have a strong user interface skill and the server side a strong API skill. But they overlap. A backend developer could just be focused on a database and providing an API to it or on a server language like PHP and those mentioned so far and provide an API to it. Their work would need to be accessible to many other back end applications such as the database developer example and more to many front end applications. For example today many web backends service not only desktop and mobile web front ends but also device apps and even desktop apps. So the back end developer will not know how all of those front ends work but provide a server side interface such as a REST interface for those multiple front end technologies to access such as a login. Server developer can also make user interfaces that are probably less robust for administrative access to their code, functionality and data.",
+        "image": "https://miro.medium.com/max/1400/1*qgUU5Bsw_aijAPHiaMnCng.png"
+    },
+    {
+        "_id": "6356dbcb57231cdab28ee609",
+        "id": "2",
+        "name": "Software Engineering",
+        "tools": [
+            "C++",
+            "Java",
+            "Python",
+            "Scala",
+            "Ruby",
+            "JavaScript"
+        ],
+        "detailes": "Software engineering is a systematic engineering approach to software development.A software engineer is a person who applies the principles of software engineering to design, develop, maintain, test, and evaluate computer software. The term programmer is sometimes used as a synonym, but may also lack connotations of engineering education or skills. In software engineering you can learn any kind of language but you have to expert on it, you have to acquire the ability of problem solving. Every company doesn't follow the same language but in interview section basically the test your problem solving ability. So be a good programmer you must have a good coading problem solver.",
+        "image": "https://cdn.monkplatform.com/image/czoyMjg6Imh0dHBzJTNBJTJGJTJGMzFiYWE5MjA0MDExYTRiNzM3M2QtNGI0NWM2MjdiNDc4OTA0YjRkOThiYzMyYjRiZTkyOTEuc3NsLmNmMi5yYWNrY2RuLmNvbSUyRnVwbG9hZGVkJTJGcCUyRjBlNjA3Njg4OF8xNDkwODA2ODc2X3BleGVscy1waG90by05MDgwNy5qcGVnJTNGcSUzRDkwJTI2dyUzRDMyMDAlMjZoJTNEMCUyNmZpdCUzRG1heCUyNnMlM0RjOGQxODJmYjQ1NThjOTc1MTM3ZjJjM2MzZmM3ZTAxYSI7/pexels-photo-90807.jpeg"
+    },
+    {
+        "_id": "6356dbcb8fd0780512c476f1",
+        "index": "3",
+        "name": "Mobile App Developing",
+        "tools": [
+            "Flutter 1.0",
+            "React Native",
+            "Ionic",
+            "PhoneGap",
+            "Mobile Angular UI"
+        ],
+        "detailes": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These software applications are designed to run on mobile devices, such as a smartphone or tablet computer. These applications can be pre-installed on phones during manufacturing platforms, or delivered as web applications using server-side or client-side processing (e.g., JavaScript) to provide an application-like experience within a web browser. Application software developers also must consider a long array of screen sizes, hardware specifications, and configurations because of intense competition in mobile software and changes within each of the platforms. Mobile app development has been steadily growing, in revenues and jobs created. A 2013 analyst report estimates there are 529,000 direct app economy jobs within the EU then 28 members (including the UK), 60 percent of which are mobile app developers. ",
+        "image": "https://www.devteam.space/wp-content/uploads/2022/05/Mobile-App-Developer.jpeg"
+    },
+    {
+        "_id": "6356dbcbf62fa4c9c55e1168",
+        "index": "4",
+        "name": "Graphics Designer",
+        "tools": [
+            "Adobe Illustrator",
+            "Adobe Photoshop",
+            "Affinity Designer",
+            "Affinity Photo",
+            "Procreate",
+            "Canva",
+            "Gravit Designer",
+            "Adobe InDesign",
+            "Pixlr",
+            "Figma"
+        ],
+        "detailes": "Graphic design is a profession, applied art and academic discipline whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts. Its practice involves creativity, innovation and lateral thinking using manual or digital tools, where it is usual to use text and graphics to communicate visually. The role of the graphic designer in the communication process is that of encoder or interpreter of the message. They work on the interpretation, ordering, and presentation of visual messages. Usually, graphic design uses the aesthetics of typography and the compositional arrangement of the text, ornamentation, and imagery to convey ideas, feelings, and attitudes beyond what language alone expreses. The design work can be based on a customer's demand, a demand that ends up being established linguistically, either orally or in writing, that is, that graphic design transforms a linguistic message into a graphic manifestation.",
+        "image": "https://www.goatsontheroad.com/wp-content/uploads/2020/10/how-to-make-money-as-a-graphic-designer.jpg"
+    },
+    {
+        "_id": "6356f9db674ebf1a781b86ac",
+        "index": "5",
+        "name": "Video Editing",
+        "tools": [
+            "Filmora",
+            "EDIUS",
+            "Autodesk Smoke",
+            "Adobe Premiere Pro",
+            "Final Cut Pro",
+            "HitFilm Pro",
+            "Lightworks",
+            "Blender",
+            "Magix Video Pro X",
+            "Avid Media Composer"
+        ],
+        "detailes": "Video editing is the manipulation and arrangement of video shots. Video editing is used to structure and present all video information, including films and television shows, video advertisements and video essays. Video editing has been dramatically democratized in recent years by editing software available for personal computers. Editing video can be difficult and tedious, so several technologies have been produced to aid people in this task. Pen based video editing software was developed in order to give people a more intuitive and fast way to edit video. Video editing is the process of editing segments of motion video production footage, special effects and sound recordings in the post-production process. Motion picture film editing is a predecessor to video editing and, in several ways, video editing simulates motion picture film editing, in theory and the use of linear video editing and video editing software on non-linear editing systems (NLE). Using video, a director can communicate non-fictional and fictional events. The goal of editing is to manipulate these events to bring the communication closer to the original goal or target. It is a visual art.",
+        "image": "https://res.acdsee.com/media/uploads/2021/05/08202849/Luxea-VideoEditingSoftwarePage.jpg.webp"
+    }
+]

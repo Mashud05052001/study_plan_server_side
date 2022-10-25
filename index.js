@@ -1,9 +1,14 @@
 const express = require('express')
 const app = express()
-const port = 3000
+var cors = require('cors')
+const port = 5000
+app.use(cors());
+
+
+
 
 app.get('/', (req, res) => {
-    res.send('Hello World!')
+    res.send('Welcome To the backend data of my meta4 courses')
 })
 
 app.listen(port, () => {
