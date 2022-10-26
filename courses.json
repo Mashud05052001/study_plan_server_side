@@ -98,5 +98,45 @@
         ],
         "detailes": "Video editing is the manipulation and arrangement of video shots. Video editing is used to structure and present all video information, including films and television shows, video advertisements and video essays. Video editing has been dramatically democratized in recent years by editing software available for personal computers. Editing video can be difficult and tedious, so several technologies have been produced to aid people in this task. Pen based video editing software was developed in order to give people a more intuitive and fast way to edit video. Video editing is the process of editing segments of motion video production footage, special effects and sound recordings in the post-production process. Motion picture film editing is a predecessor to video editing and, in several ways, video editing simulates motion picture film editing, in theory and the use of linear video editing and video editing software on non-linear editing systems (NLE). Using video, a director can communicate non-fictional and fictional events. The goal of editing is to manipulate these events to bring the communication closer to the original goal or target. It is a visual art.",
         "image": "https://res.acdsee.com/media/uploads/2021/05/08202849/Luxea-VideoEditingSoftwarePage.jpg.webp"
+    },
+    {
+        "_id": "6356f9db674ebf1a781b86ad",
+        "index": "6",
+        "name": "CSE Problem Solving",
+        "tools": [
+            "Problem Analysis",
+            "Program Design",
+            "Algorithm, Flowchart",
+            "Coading",
+            "Compilation and Execution",
+            "Debugging and Testing",
+            "Program Documentation"
+        ],
+        "detailes": "Solving problems is the core of computer science. Programmers must first understand how a human solves a problem, then understand how to translate this algorithm into something a computer can do, and finally how to write the specific syntax (required by a computer) to get the job done. It is sometimes the case that a machine will solve a problem in a completely different way than a human. Problem solving consists of using generic or ad hoc methods in an orderly manner to find solutions to problems. Some of  the  problem-solving techniques developed  and  used  in philosophy, artificial  intelligence, computer science, engineering, mathematics, medicine and societies in general are  related to  mental  problem-solving  techniques  studied  in psychology and cognitive sciences.",
+        "image": "https://res.acdsee.com/media/uploads/2021/05/08202849/Luxea-VideoEditingSoftwarePage.jpg.webp"
+    },
+    {
+        "_id": "6356f9db674ebf1a781b86ae",
+        "index": "6",
+        "name": "Blog Writting",
+        "tools": [
+            "Planning",
+            "Topic That Interests",
+            "Researching Ability",
+            "English Skill Ability",
+            "Awesome Blog",
+            "Different Categories",
+            "Professional Blogging Techniques"
+        ],
+        "detailes": "Review a step-by-step guide plus useful templates to learn how to write an effective blog post for your target audience and customers. Written by: Rachel Leist. If you’ve ever read a blog post, you’ve consumed content from a thought leader that is an expert in their industry. Chances are if the blog post was written effectively, you came away with helpful knowledge and a positive opinion about the writer or brand that produced the content. Anyone can connect with their audience through blogging and enjoy the myriad benefits that blogging provides: organic traffic from search engines, promotional content for social media, and recognition from a new audience you haven’t tapped into yet. If you’ve heard about blogging but are a beginner and don’t know where to start, the time for excuses is over. Not only can you create an SEO-friendly blog, but we’ll cover how to write and manage your business's blog as well as provide helpful templates to simplify your blogging efforts.",
+        "image": "https://res.acdsee.com/media/uploads/2021/05/08202849/Luxea-VideoEditingSoftwarePage.jpg.webp"
     }
 ]
+// 6354dbccpb7fedf95e6c982e
+// 6356dbccab7fedf95e6c182e
+// 6356dbcb57231cdab28ee609
+// 6356dbcb8fd0780512c476f1
+// 6356dbcbf62fa4c9c55e1168
+// 6356f9db674ebf1a781b86ac
+// 6356f9db674ebf1a781b86ad
+// 6356f9db674ebf1a781b86ae
