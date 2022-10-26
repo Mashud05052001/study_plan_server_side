@@ -1,6 +1,6 @@
 [
     {
-        "index": "0",
+        "index": "1",
         "_id": "6354dbccpb7fedf95e6c982e",
         "name": "Frontend Developing",
         "tools": [
@@ -20,7 +20,7 @@
     },
     {
         "_id": "6356dbccab7fedf95e6c182e",
-        "id": "1",
+        "index": "1",
         "name": "Backend Developing",
         "tools": [
             "NodeJS",
@@ -34,7 +34,7 @@
     },
     {
         "_id": "6356dbcb57231cdab28ee609",
-        "id": "2",
+        "index": "2",
         "name": "Software Engineering",
         "tools": [
             "C++",
@@ -46,6 +46,22 @@
         ],
         "detailes": "Software engineering is a systematic engineering approach to software development.A software engineer is a person who applies the principles of software engineering to design, develop, maintain, test, and evaluate computer software. The term programmer is sometimes used as a synonym, but may also lack connotations of engineering education or skills. In software engineering you can learn any kind of language but you have to expert on it, you have to acquire the ability of problem solving. Every company doesn't follow the same language but in interview section basically the test your problem solving ability. So be a good programmer you must have a good coading problem solver.",
         "image": "https://cdn.monkplatform.com/image/czoyMjg6Imh0dHBzJTNBJTJGJTJGMzFiYWE5MjA0MDExYTRiNzM3M2QtNGI0NWM2MjdiNDc4OTA0YjRkOThiYzMyYjRiZTkyOTEuc3NsLmNmMi5yYWNrY2RuLmNvbSUyRnVwbG9hZGVkJTJGcCUyRjBlNjA3Njg4OF8xNDkwODA2ODc2X3BleGVscy1waG90by05MDgwNy5qcGVnJTNGcSUzRDkwJTI2dyUzRDMyMDAlMjZoJTNEMCUyNmZpdCUzRG1heCUyNnMlM0RjOGQxODJmYjQ1NThjOTc1MTM3ZjJjM2MzZmM3ZTAxYSI7/pexels-photo-90807.jpeg"
+    },
+    {
+        "_id": "6356f9db674ebf1a781b86ad",
+        "index": "2",
+        "name": "CSE Problem Solving",
+        "tools": [
+            "Problem Analysis",
+            "Program Design",
+            "Algorithm, Flowchart",
+            "Coading",
+            "Compilation and Execution",
+            "Debugging and Testing",
+            "Program Documentation"
+        ],
+        "detailes": "Solving problems is the core of computer science. Programmers must first understand how a human solves a problem, then understand how to translate this algorithm into something a computer can do, and finally how to write the specific syntax (required by a computer) to get the job done. It is sometimes the case that a machine will solve a problem in a completely different way than a human. Problem solving consists of using generic or ad hoc methods in an orderly manner to find solutions to problems. Some of  the  problem-solving techniques developed  and  used  in philosophy, artificial  intelligence, computer science, engineering, mathematics, medicine and societies in general are  related to  mental  problem-solving  techniques  studied  in psychology and cognitive sciences.",
+        "image": "https://i.ytimg.com/vi/C1XABm6OUQs/maxresdefault.jpg"
     },
     {
         "_id": "6356dbcb8fd0780512c476f1",
@@ -82,7 +98,7 @@
     },
     {
         "_id": "6356f9db674ebf1a781b86ac",
-        "index": "5",
+        "index": "4",
         "name": "Video Editing",
         "tools": [
             "Filmora",
@@ -100,24 +116,8 @@
         "image": "https://res.acdsee.com/media/uploads/2021/05/08202849/Luxea-VideoEditingSoftwarePage.jpg.webp"
     },
     {
-        "_id": "6356f9db674ebf1a781b86ad",
-        "index": "6",
-        "name": "CSE Problem Solving",
-        "tools": [
-            "Problem Analysis",
-            "Program Design",
-            "Algorithm, Flowchart",
-            "Coading",
-            "Compilation and Execution",
-            "Debugging and Testing",
-            "Program Documentation"
-        ],
-        "detailes": "Solving problems is the core of computer science. Programmers must first understand how a human solves a problem, then understand how to translate this algorithm into something a computer can do, and finally how to write the specific syntax (required by a computer) to get the job done. It is sometimes the case that a machine will solve a problem in a completely different way than a human. Problem solving consists of using generic or ad hoc methods in an orderly manner to find solutions to problems. Some of  the  problem-solving techniques developed  and  used  in philosophy, artificial  intelligence, computer science, engineering, mathematics, medicine and societies in general are  related to  mental  problem-solving  techniques  studied  in psychology and cognitive sciences.",
-        "image": "https://res.acdsee.com/media/uploads/2021/05/08202849/Luxea-VideoEditingSoftwarePage.jpg.webp"
-    },
-    {
         "_id": "6356f9db674ebf1a781b86ae",
-        "index": "6",
+        "index": "4",
         "name": "Blog Writting",
         "tools": [
             "Planning",
@@ -129,14 +129,25 @@
             "Professional Blogging Techniques"
         ],
         "detailes": "Review a step-by-step guide plus useful templates to learn how to write an effective blog post for your target audience and customers. Written by: Rachel Leist. If you’ve ever read a blog post, you’ve consumed content from a thought leader that is an expert in their industry. Chances are if the blog post was written effectively, you came away with helpful knowledge and a positive opinion about the writer or brand that produced the content. Anyone can connect with their audience through blogging and enjoy the myriad benefits that blogging provides: organic traffic from search engines, promotional content for social media, and recognition from a new audience you haven’t tapped into yet. If you’ve heard about blogging but are a beginner and don’t know where to start, the time for excuses is over. Not only can you create an SEO-friendly blog, but we’ll cover how to write and manage your business's blog as well as provide helpful templates to simplify your blogging efforts.",
-        "image": "https://res.acdsee.com/media/uploads/2021/05/08202849/Luxea-VideoEditingSoftwarePage.jpg.webp"
+        "image": "https://neilpatel.com/wp-content/uploads/2017/08/blog.jpg"
+    },
+    {
+        "_id": "6356f9db674ebf11243186ae",
+        "index": "5",
+        "name": "Basic To Advance Computer",
+        "tools": [
+            "Typing Speed",
+            "Downloading & Uploading",
+            "Different software",
+            "Pdf Files",
+            "MS Word",
+            "MS Excel",
+            "MS PowerPoint",
+            "Windows Security",
+            "Photoshop",
+            "Video Editing"
+        ],
+        "detailes": "A computer is more than just another household appliance. The vast amount of information and possibilities can be overwhelming. But you can accomplish a lot with a computer, and using one can be a good experience. Let's walk through getting started with your first computer. Turning on a computer for the first time can be different from one computer to the next. Your experience could be different from this lesson. It's OK to ask someone for help. Today, many people all over the world use some form of computer every day. Having a general understanding of computers helps you function in today's world, preventing you from getting left behind. Below we've created a list of reasons why you should learn more about computers with additional resources to learn more about computers.",
+        "image": "https://www.ncl.ac.uk/mediav8/postgraduate/images/course-pages/header-images/advanced_computer_science_msc.jpeg"
     }
 ]
-// 6354dbccpb7fedf95e6c982e
-// 6356dbccab7fedf95e6c182e
-// 6356dbcb57231cdab28ee609
-// 6356dbcb8fd0780512c476f1
-// 6356dbcbf62fa4c9c55e1168
-// 6356f9db674ebf1a781b86ac
-// 6356f9db674ebf1a781b86ad
-// 6356f9db674ebf1a781b86ae

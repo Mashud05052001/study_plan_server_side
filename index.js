@@ -13,6 +13,16 @@ app.get('/courses/:id', (req, res) => {
     const selectedCourse = courses.find(item => item._id === dynamicId);
     res.send(selectedCourse);
 })
+app.get('/category/:id', (req, res) => {
+    const dynamicId = req.params.id;
+    if (dynamicId === "all") {
+        res.send(courses);
+    }
+    else {
+        const selectedCourse = courses.filter(item => item.index === dynamicId);
+        res.send(selectedCourse);
+    }
+})
 
 
 
