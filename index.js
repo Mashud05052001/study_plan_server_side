@@ -15,7 +15,7 @@ app.get('/courses/:id', (req, res) => {
 })
 app.get('/category/:id', (req, res) => {
     const dynamicId = req.params.id;
-    if (dynamicId === "all") {
+    if (dynamicId === "0") {
         res.send(courses);
     }
     else {
